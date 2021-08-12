@@ -1,7 +1,5 @@
-# SECTION 02. 데이터베이스 구축
-   
-## 2-4 SQL 문 작성하기
-   
+# SECTION 02. 데이터베이스 구축    
+## 2-4 SQL 문 작성하기    
 ```python
 SELECT * FROM memberTBL;   # 모든 데이터 조회
 
