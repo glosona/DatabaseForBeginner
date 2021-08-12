@@ -1,4 +1,4 @@
-# SECTION 03. 데이터베이스 모델링의 이해
+# SECTION 03. 데이터베이스 모델링 실습
 ## 3-2 쇼핑몰 데이터베이스 다이어그램 만들기
 * 모델 다이어그램 만들기   
 ![Diagram](https://user-images.githubusercontent.com/80742177/129214603-839f78f9-8b0f-4c01-bb2a-8019fe34037e.PNG)
