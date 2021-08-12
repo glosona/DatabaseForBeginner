@@ -11,7 +11,7 @@ CREATE TABLE `my testTBL` (id INT);   // 새로운 테이블 생성
 
 DROP TABLE `my TestTBL`;   // 테이블 삭제
 ```
-
+***
 # SECTION 03. 데이터베이스 개체 활용
 
 ## 2-5 인덱스 사용하기
