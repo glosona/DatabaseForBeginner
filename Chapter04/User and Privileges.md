@@ -20,13 +20,13 @@ DELETE FROM membertbl;   # 실행 안함
 ```
 
 
-* staff로 접속해서 권한 확인하기
-1
-![staff 권한 확인](https://user-images.githubusercontent.com/80742177/129308440-b31407a4-4ef0-4c6a-825f-e1105f67740e.PNG)
-2
-![staff 권한 확인2](https://user-images.githubusercontent.com/80742177/129308445-34a6fc55-e18e-4092-a123-76e0ba161d89.PNG)
-3
-![staff 권한 확인3](https://user-images.githubusercontent.com/80742177/129308446-d75c5a13-3242-4f70-9558-6a216a534076.PNG)
+* staff로 접속해서 권한 확인하기      
+1       
+![staff 권한 확인](https://user-images.githubusercontent.com/80742177/129308440-b31407a4-4ef0-4c6a-825f-e1105f67740e.PNG)      
+2      
+![staff 권한 확인2](https://user-images.githubusercontent.com/80742177/129308445-34a6fc55-e18e-4092-a123-76e0ba161d89.PNG)       
+3       
+![staff 권한 확인3](https://user-images.githubusercontent.com/80742177/129308446-d75c5a13-3242-4f70-9558-6a216a534076.PNG)     
 ```sql
 USE ShopDB;
 SELECT * FROM memberTBL;
